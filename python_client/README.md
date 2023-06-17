@@ -1,6 +1,8 @@
 # Music Marker - Python client
-Run `python music_marker.py` and select a song in the file dialog.  
-Recommended is to first setup a virtual environment with the instructions below.
+
+Run `python music_marker.py`, select a song in the file dialog, and start marking!
+
+First, set up a virtual environment with the instructions below.
 
 ## Setup Python environment
 

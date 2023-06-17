@@ -1,7 +1,9 @@
 # Music Marker
 Record timestamps to use in my [Easy Beat Sync](https://github.com/jort-dev/easy-beat-sync) program.  
 You can use the [web app](/web_client) or the [Python app](/python_client).  
-The documentation for them can be found in their folders.
+The documentation for them can be found in their folders.  
+
+Web app live on [GitHub pages](https://jort-dev.github.io/music_marker/)
 
 The apps both output a `timestamps.yaml` file, which looks like this:
 ```yaml
