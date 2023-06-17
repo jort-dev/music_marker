@@ -1,0 +1,5 @@
+pygobject # needed for pywebview
+pywebview[qt] # needed for cross platform native folder picker
+pygame # for recording keystrokes
+Pillow # timestamp visual effect
+pyyaml # writing the timestamps.yaml file
